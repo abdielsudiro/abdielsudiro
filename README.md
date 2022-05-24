@@ -1,4 +1,7 @@
-### Hi there 👋
+### Abdiel Sudiro
+
+I'm typically a learning by doing guy. A computer geek that always love:   
+<strong> Unix, Oracle, C/C++, CUDA, Java, MERN Stack </strong> as well as <strong>TOGAF. </strong>
 
 <!--
 **abdielsudiro/abdielsudiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
